@@ -1,5 +1,9 @@
 # MERN Stack VPS Deployment Guide
 
+![Author](https://img.shields.io/badge/Author-Jaydip%20Khunt-blue)
+![Date](https://img.shields.io/badge/Date-October%202025-green)
+![Guide](https://img.shields.io/badge/Type-Deployment%20Guide-orange)
+
 A complete guide for deploying MERN stack applications on a Virtual Private Server (VPS) with Nginx, Node.js, React, and MongoDB.
 
 ## Table of Contents
